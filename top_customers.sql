@@ -1,0 +1,2 @@
+-- Question: Who are the top 5 customers by total spending?
+-- (SQL query will go here)
