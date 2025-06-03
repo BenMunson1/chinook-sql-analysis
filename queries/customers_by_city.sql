@@ -1,4 +1,4 @@
--- Which city has the most customers, and how many per city?
+-- Question: Which city has the most customers, and how many per city?
 
 SELECT city, COUNT(*) AS num_customers
 FROM customer
