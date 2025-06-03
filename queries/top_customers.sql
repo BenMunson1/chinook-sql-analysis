@@ -1,12 +1,12 @@
 -- Question: Who are the top 5 customers by total spending?
 
 SELECT 
-    c.FirstName || ' ' || c.LastName AS CustomerName,
-    ROUND(SUM(i.Total), 2) AS TotalSpent
+    C.FirstName || ' ' || C.LastName AS CustomerName,
+    ROUND(SUM(I.Total), 2) AS TotalSpent
 FROM 
-    Customer c
+    Customer C
 JOIN 
-    Invoice i ON c.CustomerId = i.CustomerId
+    Invoice I ON C.CustomerId = I.CustomerId
 GROUP BY 
     CustomerName
 ORDER BY 
