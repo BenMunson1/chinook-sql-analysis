@@ -1,4 +1,4 @@
--- Which city has the most customers, and how many per city?
+-- Most customers by city
 
 SELECT 
   City, 
