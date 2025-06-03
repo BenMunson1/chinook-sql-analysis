@@ -1,4 +1,4 @@
--- Question: Which countries have the most customers?
+-- Most customers by country
 
 SELECT 
   Country, 
@@ -9,6 +9,3 @@ GROUP BY
   Country
 ORDER BY 
   CustomerCount DESC;
-
--- Insight:
--- Most customers are from the USA, followed by Canada, and then France and Brazil.
