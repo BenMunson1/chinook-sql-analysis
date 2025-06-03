@@ -1,12 +1,12 @@
 -- Question: Which city has the most customers, and how many per city?
 
 SELECT 
-  city, 
+  City, 
   COUNT(*) AS num_customers
 FROM 
-  customer
+  Customer
 GROUP BY 
-  city
+  City
 ORDER BY 
   num_customers DESC;
 
