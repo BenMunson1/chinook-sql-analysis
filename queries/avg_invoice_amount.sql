@@ -10,3 +10,6 @@ FROM (
     GROUP BY 
         InvoiceId
 );
+
+-- Results:
+-- The average purchase amount per invoice is $5.65.
