@@ -14,12 +14,14 @@ This project explores the Chinook music store database using SQL. The goal is to
 
 1. **Who are the top 5 highest spending customers?**  
    → Identifies the customers who have spent the most overall.
+   
    → Top 5 customers by total spending:  
    - Helena Holý ($49.62)  
    - Richard Cunningham ($47.62)  
    - Luis Rojas ($46.62)  
    - Ladislav Kovács ($45.62)  
    - Hugh O'Reilly ($45.62)
+     
    _[See code](queries/top_5_customers.sql)_
 
 3. **Which countries have the most customers?**  
