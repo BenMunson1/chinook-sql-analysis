@@ -13,4 +13,4 @@ ORDER BY
   TotalRevenue DESC;
 
 -- Results:
--- The USA generates the most revenue, followed by Canada, then France.
+-- The USA generates the most revenue ($523.06), followed by Canada ($303.96), then France ($195.10).
