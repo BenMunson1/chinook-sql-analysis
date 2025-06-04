@@ -13,3 +13,6 @@ GROUP BY
     g.Name
 ORDER BY 
     TotalTracksSold DESC;
+
+-- Results:
+-- Rock leads all genres with the most tracks sold (835), followed by Latin (386), and Metal (264).
