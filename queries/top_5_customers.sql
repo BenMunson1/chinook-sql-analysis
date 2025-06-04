@@ -12,3 +12,12 @@ GROUP BY
 ORDER BY 
     TotalSpent DESC
 LIMIT 5;
+
+/* 
+Results:
+Helena Holý	        | $49.62
+Richard Cunningham	| $47.62
+Luis Rojas	        | $46.62
+Ladislav Kovács	    | $45.62
+Hugh O'Reilly	    | $45.62 
+*/
