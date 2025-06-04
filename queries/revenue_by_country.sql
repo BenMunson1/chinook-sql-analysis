@@ -11,3 +11,6 @@ GROUP BY
   c.Country
 ORDER BY 
   TotalRevenue DESC;
+
+-- Results:
+-- The USA generates the most revenue, followed by Canada, then France.
