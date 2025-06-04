@@ -11,3 +11,6 @@ GROUP BY
     e.EmployeeId
 ORDER BY 
     NumCustomers DESC;
+
+-- Results:
+-- Jane Peacock has the most customers (21), followed by Margaret Park (20), and lastly Steve Johnson (18).
