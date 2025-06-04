@@ -14,3 +14,12 @@ GROUP BY
 ORDER BY 
     Total_Revenue DESC
 LIMIT 5;
+
+/*
+Results:
+Battlestar Galactica (Classic), Season 1	($35.82)
+The Office, Season 3	($31.84)
+Minha Historia	($26.73)
+Lost, Season 2	($25.87)
+Heroes, Season 1	($25.87)
+*/
