@@ -34,7 +34,7 @@ This project explores the Chinook music store database using SQL. The goal is to
 
 6. **Which sales agents (employees) have the most customers assigned to them?**  
    → Helps evaluate employee workload and customer distribution.  
-   _[See code](queries/customers_per_employee.sql)_
+   _[See code](queries/customers_per_sales_agent.sql)_
 
 7. **What is the average purchase amount per invoice?**  
    → Measures typical order size across all invoices.  
@@ -50,7 +50,7 @@ This project explores the Chinook music store database using SQL. The goal is to
 
 10. **How has revenue trended over time (by month or year)?**  
    → Visualizes sales trends for strategic planning.  
-   _[See code](queries/revenue_over_time.sql)_
+   _[See code](queries/revenue_by_year.sql)_
 
 ## 📌 Summary
 
