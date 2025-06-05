@@ -52,6 +52,12 @@ This project explores the Chinook music store database using SQL. The goal is to
    → Visualizes sales trends for strategic planning.  
    _[See code](queries/revenue_by_year.sql)_
 
+## 📈 Tableau Dashboard
+
+Visual insights based on the SQL analysis:  
+👉 [Chinook Tableau Dashboard](https://public.tableau.com/app/profile/benjamin.munson/vizzes)
+
+
 ## 📌 Summary
 
 This analysis demonstrates SQL skills in:
