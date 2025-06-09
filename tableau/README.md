@@ -4,7 +4,7 @@ This folder contains visual insights based on the Chinook database analysis.
 The underlying data was extracted using SQL and visualized using Tableau Public.
 
 ## 📊 Dashboard Link:
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/benjamin.munson/vizzes)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/benjamin.munson/viz/ChinookSQLTableauVisualization/ChinookSalesAnalysis)
 
 ## Visualized Insights:
 - Total revenue by country
