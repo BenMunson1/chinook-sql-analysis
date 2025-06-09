@@ -73,4 +73,5 @@ This project uses the Chinook Database, a sample database available for SQL prac
 📄 [Chinook Database GitHub Repository](https://github.com/lerocha/chinook-database)
 
 The dataset simulates a digital media store, with information about customers, invoices, artists, tracks, albums, and more.
+
 ---
