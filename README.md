@@ -1,6 +1,6 @@
 # Chinook SQL Analysis
 
-This project explores the Chinook music store database using SQL. The goal is to answer real-world business questions by querying the database to uncover insights about customers, revenue, sales, and employees.
+This project explores the Chinook store database using SQL. The goal is to answer real-world business questions by querying the database to uncover insights about customers, revenue, sales, and employees.
 
 ## 🧰 Tools Used
 - SQLite Studio
