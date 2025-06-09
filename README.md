@@ -55,7 +55,7 @@ This project explores the Chinook music store database using SQL. The goal is to
 ## 📈 Tableau Dashboard
 
 Visual insights based on the SQL analysis:  
-👉 [Chinook Tableau Dashboard](https://public.tableau.com/app/profile/benjamin.munson/vizzes)
+👉 [Chinook Tableau Dashboard](https://public.tableau.com/app/profile/benjamin.munson/viz/ChinookSQLTableauVisualization/ChinookSalesAnalysis)
 
 
 ## 📌 Summary
