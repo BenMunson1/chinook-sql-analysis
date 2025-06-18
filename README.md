@@ -5,6 +5,7 @@ This project explores the Chinook store database using SQL. The goal is to answe
 ## 🧰 Tools Used
 - SQLite Studio
 - SQL (SQLite syntax)
+- Tableau
 - GitHub for version control and hosting
 
 ## 📁 Project Structure
