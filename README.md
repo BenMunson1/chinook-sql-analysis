@@ -67,6 +67,10 @@ This analysis demonstrates SQL skills in:
 - Answering business-focused questions
 - Organizing a project for readability and reuse
 
+## 🚀 Recommendations
+- Prioritize marketing strategies towards the USA, as they lead in amount of customers and total revenue generated.
+- Continue to capitalize on Rock tracks and albums by expanding licensing or marketing, since Rock is the most sold genre by a significant amount.  
+
 ## 📦 Dataset Source
 
 This project uses the Chinook Database, a sample database available for SQL practice.
